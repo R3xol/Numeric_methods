@@ -31,7 +31,7 @@ This repository contains solutions to tasks for the Numerical Methods course. Th
     - **Task G18**: Compute derivatives numerically and compare with analytical results.
     - `MEN_Proj_IND_Oleg_Łyżwiński_FG.pdf`: Report and conclusions for tasks F and G.
 
-4. **Folder `Grupowy/`**: Contains the group project:
+4. **Folder `Difusion/`**: Contains the group project:
    - `Metody.py`: Implementation of algorithms for analyzing drug diffusion through biomembranes or biofilms. 
      - The goal of this project was to determine drug diffusion using phase-shift interferometry with a CMOS sensor in a Mach-Zehnder interferometer. Phase data reconstruction was used to analyze the biofilm behavior.
    - `MEN_Proj_Grup.pdf`: Report detailing the methodology and results of the group project.
